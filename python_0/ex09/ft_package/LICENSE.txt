@@ -1,0 +1,6 @@
+MIT License
+(means do whaterver you want but don't blame me if something breaks)
+
+Copyright (c) 2025 acomet
+
+Permission is hereby granted, free of charge, to any person containing a copy of this software...

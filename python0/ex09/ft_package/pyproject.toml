@@ -1,0 +1,7 @@
+[project]
+name = "ft_package"
+version = "0.1"
+description = "Package some package"
+authors = [
+    {name = "acomet alias big boss"}
+]
